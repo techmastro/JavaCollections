@@ -16,8 +16,11 @@ public class Main {
 //		LinkedHashSetExample lhse = new LinkedHashSetExample();
 //		lhse.show();
 		
-		TreeSetExample tse = new TreeSetExample();
-		tse.show();
+//		TreeSetExample tse = new TreeSetExample();
+//		tse.show();
+		
+		Queue_PriorityQueue pq = new Queue_PriorityQueue();
+		pq.show();
 		
 	}
 

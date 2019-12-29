@@ -1,0 +1,7 @@
+Alt+Shift+J = JavaDoc Comment Creation
+
+Ctrl+Pgup = Previous Tab
+
+Ctrl+PgDn = Next Tab
+
+Ctrl+Shift+M = Auto import the class on which the cursor is currently present
